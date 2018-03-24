@@ -1,0 +1,10 @@
+/*HEADER*/
+#main-header {
+    margin:auto;
+}
+
+/*********NAV BAR ******/
+.nav-list {
+    display: flex;
+    align-items: center;
+}
